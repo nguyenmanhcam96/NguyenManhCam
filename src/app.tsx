@@ -1,5 +1,5 @@
 import React from 'react'
-import './app.css'
+import './index.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'rsuite/dist/styles/rsuite-default.css'
 
